@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://ttmt97k5.github.io/GEO_Ip17/sitemap.xml
